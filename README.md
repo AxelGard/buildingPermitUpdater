@@ -21,4 +21,5 @@ with the bulding name and expirison date.
 ## What I learned 
 
 - [x] openpyxl
-- [x] smtplib, email.mime
+- [x] smtplib
+- [x] email.mime
