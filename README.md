@@ -1,6 +1,6 @@
 # buildingPermitUpdater
 
-Update a excel file beast on dates
+Update a excel file bast on dates
 
 The bot will send a email with the info on when dates is outofdate or close to. 
 
